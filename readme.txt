@@ -1,1 +1,0 @@
-In the black-litterman1 we try to turn the provided data on the basic black litterman model and to compare it markowitz model.
